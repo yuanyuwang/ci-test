@@ -24,7 +24,17 @@
       </plugin>      
     </plugins>
   </reporting>
-
+  <contributors>
+      <contributor>
+        <name>BenjaminWang</name>
+        <email>wangyuanyu@gmail.com</email>
+        <organization>infozen</organization>
+        <organizationUrl>http://www.infozen.com</organizationUrl>
+        <roles>
+          <role>Developer</role>
+        </roles>
+      </contributor>
+  </contributors>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
